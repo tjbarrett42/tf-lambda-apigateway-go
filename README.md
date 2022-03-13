@@ -1,7 +1,9 @@
-# Learn Terraform - Lambda functions and API Gateway
+# AWS Lambda and API Gateway Go API
 
-AWS Lambda functions and API gateway are often used to create serverlesss
-applications.
+This is a demonstration of creating a serverless application that utilizes an AWS Lambda function and API Gateway to return IP information.
 
-Follow along with this [tutorial on HashiCorp
-Learn](https://learn.hashicorp.com/tutorials/terraform/lambda-api-gateway?in=terraform/aws).
+Deployed using Terraform.
+
+## Usage
+(Todo)
+The base URL can be called with a path of /{ip}, ip being an IP address, to return IP information.
